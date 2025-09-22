@@ -3,6 +3,9 @@
 Stručný soubor poznámek a soubor odkazů z hodin.
 Podklady z předchozích ročníků jsou k dispozici na [Moodle](https://moodle-vyuka.cvut.cz/course/view.php?id=14467).
 
+Pro splnění je požadováno plnění jednotlivých úkolů v průběhu semestru, vypracování celosemestrálního projketu (skupiny po dvou, třech) a splnění závěrečného testu.
+Návrhy semestrálních prací pro inspiraci najdete třeba [zde](https://github.com/tomashalada/pia1).
+
 ## Obsah předmětu
 
 Stručný přehled probírané látky včetně užitečných odkazů

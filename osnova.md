@@ -1,6 +1,6 @@
 # Lekce 1
 
-- Osnova, PIA I, PIA II
+- Osnova, PIA I, PIA II ✅
 
 - Linux subsystém
    - Proč potřebujeme znát linux?

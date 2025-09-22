@@ -1,6 +1,6 @@
 ## Numerické úlohy:
 
-Pro vybraný systém (rovnice mělké vody, Eulerovi rovnice, rovnice vedení tepla, vlnová rovnice, rovnice vedení tepla, systém ODE), implementujte řešení jednoduché pomocí vybrané numerické metody (metoda konečných diferencí, bezsíťová metoda konečných diferencí, metoda konečných objemů, metoda konečných prvků)
+Pro vybraný systém (rovnice mělké vody, Eulerovy rovnice, rovnice vedení tepla, vlnová rovnice, rovnice vedení tepla, systém ODE), implementujte řešení jednoduché pomocí vybrané numerické metody (metoda konečných diferencí, bezsíťová metoda konečných diferencí, metoda konečných objemů, metoda konečných prvků)
 - Rovnice mělké vody - kachničky: https://doi.org/10.1017/jfm.2021.820
 
 ## Zpracování obrazu: Najděte dron
@@ -44,7 +44,7 @@ K existujícím časově integračním schématům v TNL-SPH dopimplementujte da
 - Vyřeště některé z issues v rámci některého z numerických submodulů TNL knihovny (TNL-LBM, TNL-SPH, TNL-MHFEM, TNL-FVM (nové!))
 
 ## Rozvoj existujícího kódu: Open Source
-- Vyřeště nějaké z issue v rámci nějakého open source projektu (v adekvátním rozsahu).
+- Vyřešte nějaké z issues v rámci nějakého open-source projektu (v adekvátním rozsahu).
 
 ## Programování pro konkrétní HW: Arduino, embedded zařízení
 

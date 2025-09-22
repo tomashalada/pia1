@@ -41,7 +41,7 @@ Stručný přehled probírané látky včetně užitečných odkazů
 - [Kurz programování ZPRO (python) na KSI FJFI](https://gitlab.fjfi.cvut.cz/ksi/zpro-2024-public)
 - [Základní poznámky k programování od Jakuba Klinkovského z FJFI (PROG)](https://jlk.fjfi.cvut.cz/teaching/PROP_2023.html)
 - __(Nainstaluj!)__ Instalace [VSCodium](https://vscodium.com/)/[VSCode](https://code.visualstudio.com/) včetně rozšíření [podle návodu ze ZPRO na KSI FJFI](https://gitlab.fjfi.cvut.cz/ksi/zpro-2024-public/-/blob/main/10%20VSCodium.ipynb?ref_type=heads)
-- __(Nainstaluj!)__ Linuxovová distribuce nebo subsystém [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Nebojte, nedá se pokazit nic! Alternativně lze použít [MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org/)
+- __(Nainstaluj!)__ Linux nebo subsystém [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Nebojte, nedá se pokazit nic! Alternativně lze použít [MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org/)
 - Doporučené linuxové distribuce pro začátek: Ubuntu (Kubuntu, Xubuntu, Lulubuntu) - Nebojte, nedá se pokazit moc!
 - __(Nainstaluj!)__ [Git](https://git-scm.com/) nebo [Git pro Windows](https://gitforwindows.org/) - doporučuji např. [instrukce k instalaci](https://carpentries.github.io/workshop-template/install_instructions/#shell)
 - [Git ve VSCode terminálu](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_using-git-in-the-builtin-terminal)

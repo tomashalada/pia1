@@ -1,5 +1,8 @@
 # Lekce 1
 
+
+## Poznámky:
+
 #### Kompilace:
 
 - Lexikografická analýza, parsování, semantická analýza, optimalizace a generování kódu
@@ -16,5 +19,4 @@
 - Interpreter napsaný v C
 - (zhruba 100x víc CPU cyků na operaci)
 
-
-#### Elementary example
+#### Elementární ukázka

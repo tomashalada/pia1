@@ -2,7 +2,7 @@ Baldová Kateřina
 Bednář Adam
 Boháč Ondřej OK
 Bubeník Ondřej OK
-David Marek
+David Marek OK
 Dobrev Šimon OK
 Heblt Tomáš OK
 Jeřábek Jan ✅
@@ -19,3 +19,5 @@ Rýc Jakub OK
 Šimpach Tomáš OK
 Šmíd Jáchym
 Vondráček Martin OK
+
+

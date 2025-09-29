@@ -12,6 +12,8 @@ Návrhy semestrálních prací pro inspiraci najdete třeba [zde](https://github
 
 Stručný přehled probírané látky včetně užitečných odkazů
 
+---
+
 ### Lekce 1
 
 - Osnova, PIA I, PIA II

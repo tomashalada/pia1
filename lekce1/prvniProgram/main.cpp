@@ -7,9 +7,11 @@
 int main()
 {
 
-   int promenna = 1;
+   int promennaCeleCislo = 1;
    float promennaDesetinneCislo=  3.f;
+   double desetinneCisloVelke  = 6.5646;
 
-   std::cout << "Vypis do konzole." << std::endl;
+   std::cout << "Vypis do konzole promennaCeleCislo:" << promennaDesetinneCislo << std::endl;
+   printf( "Cele cislo: %d\n", promennaCeleCislo );
    return 0;
 }

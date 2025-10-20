@@ -80,6 +80,7 @@ Stručný přehled probírané látky včetně užitečných odkazů
 - Vícerozměrné pole
 - Funkce
 - [Datové kontejnery standardní knihovny](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/)
+- [Datové kontejnery - detailní přehled](https://cplusplus.com/reference/stl/)
 
 ### Lekce 5
 

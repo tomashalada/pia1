@@ -73,15 +73,17 @@ Stručný přehled probírané látky včetně užitečných odkazů
 ### Lekce 3
 
 - Statické a dynamické pole
-- Funkce
+- Reference a pointery
 
 ### Lekce 4
 
-- Reference a pointery
-   - Smart pointery
+- Vícerozměrné pole
+- Funkce
+- [Datové kontejnery standardní knihovny](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/)
 
 ### Lekce 5
 
+- Smart pointery
 - Knihovna STD I.
 - Lambda funkce II.
 

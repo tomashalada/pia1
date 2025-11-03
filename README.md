@@ -70,10 +70,15 @@ Stručný přehled probírané látky včetně užitečných odkazů
 #### Užitečné odkazy:
 - EEEI standard konečné artimetiky - kalkulačka: https://www.h-schmidt.net/FloatConverter/IEEE754.html
 
+---
+
 ### Lekce 3
 
 - Statické a dynamické pole
+   - datové konejnery [std::vector](https://www.geeksforgeeks.org/cpp/vector-in-cpp-stl/) (alternativně [zde](https://learn.microsoft.com/cs-cz/cpp/standard-library/vector-class?view=msvc-170)) a [std::array](https://www.geeksforgeeks.org/cpp/stdarray-in-cpp/) (alternativně [zde](https://learn.microsoft.com/cs-cz/cpp/standard-library/array-class-stl?view=msvc-170))
 - Reference a pointery
+
+---
 
 ### Lekce 4
 
@@ -83,6 +88,8 @@ Stručný přehled probírané látky včetně užitečných odkazů
 __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vybraného projektu, co je vstup, co je výstup, jaké kroky a procesy musí program obsahovat.
 3-5 minut, prezentace (stačí 1/2 slide) či na tabuli.
 __ÚKOL (DOPORUČENÝ):__ Lineární advekce.
+
+---
 
 ### Lekce 5
 
@@ -95,9 +102,15 @@ __ÚKOL (DOPORUČENÝ):__ Lineární advekce.
 - [Datové kontejnery standardní knihovny](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/)
 - [Datové kontejnery - detailní přehled](https://cplusplus.com/reference/stl/)
 
+---
+
 ### Lekce 6
 
 - Objektově orientované programování I: Třídy a struktury
+   - úvod
+   - data a member functions třídy
+   - koncept vlastnictví
+
 - [Odkaz na úvod do objektově orientovaného programování v C++](https://www.geeksforgeeks.org/cpp/object-oriented-programming-in-cpp/)
 - [Detailnější úvod do C++ tříd](https://cplusplus.com/doc/tutorial/classes/) a ještě jeden [alternativní zdroj s ukázkou možností tříd a struktur](https://learn.microsoft.com/en-us/cpp/cpp/classes-and-structs-cpp?view=msvc-170)
 
@@ -109,8 +122,14 @@ __ÚKOL (POVINNÝ):__ Ve složce 6 lekce najdete [neúplný kód implementujíc�
 Doplňte příslušné funkce pro výpočet obvodu a obsahu, konstruktory a nastavení poloměru.
 Výsledek nahrajte do vlastního repozitáře.
 
+---
+
 ### Lekce 7
 
+
+- Objektově orientované programování II: Třídy a struktury
+   - dědičnost
+   - (pohádka o) šablonové programování
 - Referenční kontrola samosatných prací
 
 __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a výstupu, pseudokód a rozvržení vytvářeného programu. Jaké algoritmizační a programové prvky budete používat.
@@ -119,6 +138,8 @@ __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a
 __ÚKOL (POVINNÝ):__ V předchozí lekci jsme implementovali třídu pro kruh viz [neúplný kód implementující třídu kruh](https://github.com/tomashalada/pia1/blob/main/lekce6/kruh.cpp).
 Po vzoru této úlohy vytvořte obecnou třídu `class Tvar` a od ní odvozenou třídu `class Kruhu` a `class Ctverec`.
 Výsledek nahrajte do vlastního repozitáře.
+
+---
 
 ### Lekce 8
 

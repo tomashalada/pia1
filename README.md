@@ -79,22 +79,46 @@ Stručný přehled probírané látky včetně užitečných odkazů
 
 - Vícerozměrné pole
 - Funkce
-- [Datové kontejnery standardní knihovny](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/)
-- [Datové kontejnery - detailní přehled](https://cplusplus.com/reference/stl/)
+
+__PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vybraného projektu, co je vstup, co je výstup, jaké kroky a procesy musí program obsahovat.
+3-5 minut, prezentace (stačí 1/2 slide) či na tabuli.
+__ÚKOL (DOPORUČENÝ):__ Lineární advekce.
 
 ### Lekce 5
 
-- Smart pointery
-- Knihovna STD I.
-- Lambda funkce II.
+- Opakování základních konceptů (výpis, pole, funkce, cykly, podmínky).
+
+- (Přesunuto): Smart pointery
+- (Přesunuto): Knihovna STD I.
+- (Přesunuto): Lambda funkce I.
+
+- [Datové kontejnery standardní knihovny](https://www.geeksforgeeks.org/cpp/containers-cpp-stl/)
+- [Datové kontejnery - detailní přehled](https://cplusplus.com/reference/stl/)
 
 ### Lekce 6
 
 - Objektově orientované programování I: Třídy a struktury
+- [Odkaz na úvod do objektově orientovaného programování v C++](https://www.geeksforgeeks.org/cpp/object-oriented-programming-in-cpp/)
+- [Detailnější úvod do C++ tříd](https://cplusplus.com/doc/tutorial/classes/) a ještě jeden [alternativní zdroj s ukázkou možností tříd a struktur](https://learn.microsoft.com/en-us/cpp/cpp/classes-and-structs-cpp?view=msvc-170)
+
+- (Doplňkové): Šablonové programování: Ukázky k šablonám jsou v adresáři: `concepts/templates`
+      Dále pak:
+      -  https://learn.microsoft.com/en-us/cpp/cpp/templates-cpp?view=msvc-170
+
+__ÚKOL (POVINNÝ):__ Ve složce 6 lekce najdete [neúplný kód implementující třídu kruh](https://github.com/tomashalada/pia1/blob/main/lekce6/kruh.cpp).
+Doplňte příslušné funkce pro výpočet obvodu a obsahu, konstruktory a nastavení poloměru.
+Výsledek nahrajte do vlastního repozitáře.
 
 ### Lekce 7
 
 - Referenční kontrola samosatných prací
+
+__PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a výstupu, pseudokód a rozvržení vytvářeného programu. Jaké algoritmizační a programové prvky budete používat.
+3-5 minut, prezentace (stačí 1/2 slide) či na tabuli.
+
+__ÚKOL (POVINNÝ):__ V předchozí lekci jsme implementovali třídu pro kruh viz [neúplný kód implementující třídu kruh](https://github.com/tomashalada/pia1/blob/main/lekce6/kruh.cpp).
+Po vzoru této úlohy vytvořte obecnou třídu `class Tvar` a od ní odvozenou třídu `class Kruhu` a `class Ctverec`.
+Výsledek nahrajte do vlastního repozitáře.
 
 ### Lekce 8
 

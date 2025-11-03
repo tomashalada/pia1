@@ -1,4 +1,4 @@
-#include <include>
+#include <iostream>
 
 class Kruh
 {
@@ -15,8 +15,8 @@ int main()
 
    float druhyRaidus = 4;
    Kruh druhyKruh( druhyRaidus );
-   std::cout << "Plocha kruhu:" << prvniKruh.spocitejPlochu() << std::stdl;
-   std::cout << "Obvod kruhu:" << prvniKruh.spocitejObvod() << std::stdl;
+   std::cout << "Plocha kruhu:" << prvniKruh.spocitejPlochu() << std::endl;;
+   std::cout << "Obvod kruhu:" << prvniKruh.spocitejObvod() << std::endl;
 
    druhyKruh.vypisUdaje();
 

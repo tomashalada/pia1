@@ -135,10 +135,6 @@ Výsledek nahrajte do vlastního repozitáře.
 __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a výstupu, pseudokód a rozvržení vytvářeného programu. Jaké algoritmizační a programové prvky budete používat.
 3-5 minut, prezentace (stačí 1/2 slide) či na tabuli.
 
-__ÚKOL (POVINNÝ):__ V předchozí lekci jsme implementovali třídu pro kruh viz [neúplný kód implementující třídu kruh](https://github.com/tomashalada/pia1/blob/main/lekce6/kruh.cpp).
-Po vzoru této úlohy vytvořte obecnou třídu `class Tvar` a od ní odvozenou třídu `class Kruhu` a `class Ctverec`.
-Výsledek nahrajte do vlastního repozitáře.
-
 ---
 
 ### Lekce 8

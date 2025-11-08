@@ -1,96 +1,130 @@
-# Lekce 1
+# Programování Inženýrských Aplikací I (PIA I), ZS 2025/2026
+
+Stručný soubor poznámek a soubor odkazů z hodin.
+Podklady z předchozích ročníků jsou k dispozici na [Moodle](https://moodle-vyuka.cvut.cz/course/view.php?id=14467).
+
+Pro splnění je požadováno plnění jednotlivých úkolů v průběhu semestru, vypracování celosemestrálního projketu (skupiny po dvou, třech) a splnění závěrečného testu.
+Návrhy semestrálních prací pro inspiraci najdete třeba [zde](https://github.com/tomashalada/pia1).
+
+## Obsah předmětu
+
+Stručný přehled probírané látky včetně užitečných odkazů
+
+### Lekce 1
+
+- Osnova, PIA I, PIA II
+
+- Linux: Linux jako hlavní OS, dualboot, subsystém
+   - Proč potřebujeme znát linux?
+   - [Základní příkazy na linuxu](https://swcarpentry.github.io/shell-novice/)
+
+- Programovací jazyky pro průmyslové aplikace
+   - Benefity C, C++, Fortranu oproti pythonu
+   - Julie, Matlab
+
+- Editor, standardy psaní kódu a poučky Kuby Klinkovského
+
+- Git
+   - [Git stručně](https://jlk.fjfi.cvut.cz/teaching/PROP_2024/git.html) od Jakuba Klinkovského z KSI FJSI:
+
+- Struktura C++ programů
+- Kompilování kódu (co dělá překladač)
+
+- Základní datové typy I.
+
+- Představení semestrálních projektů (skupiny po 2, 3 lidech)
+   - Vše na githubu
+   - Příspěkvy přes merge requesty
+
+#### Užitečné odkazy a doplňující zdroje:
+
+- [Kurz programování ZPRO (python) na KSI FJFI](https://gitlab.fjfi.cvut.cz/ksi/zpro-2024-public)
+- [Základní poznámky k programování od Jakuba Klinkovského z FJFI (PROG)](https://jlk.fjfi.cvut.cz/teaching/PROP_2023.html)
+- __(Nainstaluj!)__ Instalace [VSCodium](https://vscodium.com/)/[VSCode](https://code.visualstudio.com/) včetně rozšíření [podle návodu ze ZPRO na KSI FJFI](https://gitlab.fjfi.cvut.cz/ksi/zpro-2024-public/-/blob/main/10%20VSCodium.ipynb?ref_type=heads)
+- __(Nainstaluj!)__ Linux nebo subsystém [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) - Nebojte, nedá se pokazit nic! Alternativně lze použít [MSYS2: Software Distribution and Building Platform for Windows](https://www.msys2.org/)
+- Doporučené linuxové distribuce pro začátek: Ubuntu (Kubuntu, Xubuntu, Lulubuntu) - Nebojte, nedá se pokazit moc!
+- __(Nainstaluj!)__ [Git](https://git-scm.com/) nebo [Git pro Windows](https://gitforwindows.org/) - doporučuji např. [instrukce k instalaci](https://carpentries.github.io/workshop-template/install_instructions/#shell)
+- [Git ve VSCode terminálu](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_using-git-in-the-builtin-terminal)
+- [Unix Shell Tutorial](https://swcarpentry.github.io/shell-novice/)
+
+---
+
+### Lekce 2
+
+- Základní příkazy na linuxu II
+   - struktura linuxových systémů
+
+- Základní datové typy II.
+   - Aritmetika - vliv konečné aritmetiky, redukované aritmetiky a moderní výpočetní jednotky
+   - První náznak šablon (možná)
+   - Literály a static_cast
+
+- Alokace a správa paměti.
+   - Jak vypadá procesor, co jsou to cache, RAM, a proč to potřebujeme vědět
+
+- Cykly a funkce pro větvení programu
+
+- Výběr a přihlášení semestárlních projektů
+   - Skupiny se přihlásí přes git
+
+#### Užitečné odkazy:
+- EEEI standard konečné artimetiky - kalkulačka: https://www.h-schmidt.net/FloatConverter/IEEE754.html
+
+### Lekce 3
+
+- Statické a dynamické pole
+- Funkce
+
+### Lekce 4
+
+- Reference a pointery
+   - Smart pointery
+
+### Lekce 5
+
+- Knihovna STD I.
+- Lambda funkce II.
+
+### Lekce 6
+
+- Objektově orientované programování I: Třídy a struktury
+
+### Lekce 7
+
+- Referenční kontrola samosatných prací
+
+### Lekce 8
+
+- Objektově orientované programování I: Třídy a struktury
+   - dědičnost
+   - šablonové programování
+
+### Lekce 9
+
+- Externí/výpočetní servery, clustery a úložiště
 
 
-## Úkol:
+### Lekce 10
 
-Do souboru `gitTest.txt` v tomto adresáři (`pia1/lekce1/gitTest.txt`) doplňte potvrzení ke svému jménu. Využijte přitom postup fork, clone, edit, commit, push.
 
-#### Návod:
+### Lekce 11
 
-Níže je stručný postup, jak úkol realizovat, včetně generování a přidání SSH klíče pro Váš Github účet.
-Více o Gitu je uvedeno v dokazech na [na úvodní stránce](https://github.com/tomashalada/pia1/blob/main/README.md).
 
-1. **Vygenerování SSH klíče**:
-   - Otevřete terminál (Linux/Mac) nebo Git Bash (Windows).
-   - Zadejte příkaz:
-     ```bash
-     ssh-keygen -t ed25519 -C "vas_email@example.com"
-     ```
-     (Pokud máte starší systém, použijte `-t rsa` místo `-t ed25519`.)
-   - Stiskněte Enter pro výchozí umístění souboru (`~/.ssh/id_ed25519`) a případně zadejte heslo (lze nechat prázdné).
-   - Zobrazte veřejný klíč:
-     ```bash
-     cat ~/.ssh/id_ed25519.pub
-     ```
-   - Zkopírujte výstup (veřejný klíč).
+### Lekce 12
 
-2. **Přidání SSH klíče na GitHub**:
-   - Přihlaste se na GitHub (https://github.com).
-   - Klikněte na svůj profil (vpravo nahoře) → **Settings** → **SSH and GPG keys** → **New SSH key** nebo **Add SSH key**.
-   - Pojmenujte klíč (např. "PIA1") a vložte zkopírovaný veřejný klíč do pole.
-   - Klikněte na **Add SSH key**.
+- Prezentace semestrálních prací
 
-3. **Fork repositáře**:
-   - Přejděte na https://github.com/tomashalada/pia1.
-   - Klikněte na tlačítko **Fork** (vpravo nahoře) a vytvořte kopii repositáře ve vašem GitHub účtu.
+### Lekce 13
 
-4. **Naklonování forknutého repositáře**:
-   - Zkopírujte SSH adresu vašeho forku (např. `git@github.com:vas-uzivatel/pia1.git`).
-   - V terminálu zadejte:
-     ```bash
-     git clone git@github.com:vas-uzivatel/pia1.git
-     ```
-   - Přejděte do složky:
-     ```bash
-     cd pia1
-     ```
+- Bonus: HPC, numerické počítání, moderní a rychlé architektury a jejich použití
+  (Poznánka na PIA II)
+- Datové struktury pro numerické počítání
 
-5. **Úprava souboru gitTest.txt**:
-   - Otevřete soubor `lekce1/gitTest.txt` v textovém editoru.
-   - Najděte své jméno a přidejte za něj ` OK` (např. `Išván Evženovič OK`).
-   - Uložte změny.
+### Zařadit
 
-6. **Commit a push změn**:
-   - Přidejte změněný soubor do sledování:
-     ```bash
-     git add lekce1/gitTest.txt
-     ```
-   - Vytvořte commit:
-     ```bash
-     git commit -m "Přidáno OK k mému jménu"
-     ```
-   - Nahrajte změny do svého forku:
-     ```bash
-     git push origin main
-     ```
-
-7. **Vytvoření Merge Requestu**:
-   - Přejděte na váš fork na GitHubu (https://github.com/vas-uzivatel/pia1).
-   - Klikněte na **Contribute** → **Open pull request** (nebo uvidíte notifikaci o vašich změnách s možností vytvořit pull request).
-   - Zkontrolujte, že cílový repositář je `tomashalada/pia1` a větev `main`.
-   - Pojmenujte pull request (např. "Přidání OK k jménu Ištván Evženovič") a klikněte na **Create pull request**.
-
-**Poznámky**:
-- Ujistěte se, že máte nainstalovaný Git (`git --version` pro kontrolu).
-- Pokud SSH nefunguje, zkontrolujte konfiguraci: `ssh -T git@github.com` (mělo by vrátit potvrzení přihlášení).
-- Při problémech s SSH můžete dočasně použít HTTPS adresu repositáře, ale SSH je preferováno.
-
-## Poznámky:
-
-#### Kompilace:
-
-- Lexikografická analýza, parsování, semantická analýza, optimalizace a generování kódu
-- Hlavní rozdíl je v tom kdy a jak se kód překládá do strojového kódu
-- Kompilování: Preprocessing, statická analýza, kontrola typů, optimalizace (inlining, loop unrolling, dead code removal, reigster allocation, constant folding and propagation)
-- Binárky běží přímo na hw s minimálním overheadem, efektivní nízkoúrovňová správa paměti
-- Predictable: branch prediction, cache utilization
-
-#### Interpretace:
-
-- Parsování a spouštění kódu dynamicky (kód je převeden do abstract syntax tree representace, převedena do bytecode)
-- Dynamické typování vyžaduje časté přístupy do hash tabulky
-- Automatická správa paměti, obtížná dopředná optimalizace
-- Interpreter napsaný v C
-- (zhruba 100x víc CPU cyků na operaci)
-
-#### Elementární ukázka
+- Algoritmy a třídy složitosti (N vs NP)
+- Testování: Unit testy, regression testy, knihovny na testování
+- Základní numerické knihovny
+- Make a CMake
+- zpracování chyb - výjimky, assert
+- Pokročilé datové struktury

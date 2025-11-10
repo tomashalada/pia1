@@ -145,9 +145,12 @@ __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a
    - (pohádka o) šablonové programování
 
 - Co dělá překladač a jeho dodatečné argumenty
-
+- Kompilace pomocí `CMake` a `make`, členění a struktura programu
 
 - [Tutoriál k práci s CMake](https://hsf-training.github.io/hsf-training-cmake-webpage/01-intro/index.html), případně [oficiální návod pro práci s CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [Minimalistická ukázka práce s Makefile](https://www.geeksforgeeks.org/cpp/makefile-in-c-and-its-applications/)
+
+---
 
 ### Lekce 9
 

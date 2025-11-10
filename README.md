@@ -128,6 +128,7 @@ Výsledek nahrajte do vlastního repozitáře.
 
 
 - Objektově orientované programování II: Třídy a struktury
+   - přetěžování operátorů ([ukázka](https://github.com/tomashalada/pia1/blob/main/lekce6/matrix.cpp))
    - dědičnost
    - (pohádka o) šablonové programování
 - Referenční kontrola samosatných prací
@@ -139,9 +140,14 @@ __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a
 
 ### Lekce 8
 
-- Objektově orientované programování I: Třídy a struktury
+- Objektově orientované programování II: Třídy a struktury
    - dědičnost
-   - šablonové programování
+   - (pohádka o) šablonové programování
+
+- Co dělá překladač a jeho dodatečné argumenty
+
+
+- [Tutoriál k práci s CMake](https://hsf-training.github.io/hsf-training-cmake-webpage/01-intro/index.html), případně [oficiální návod pro práci s CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 
 ### Lekce 9
 

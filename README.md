@@ -11,6 +11,7 @@ Návrhy semestrálních prací pro inspiraci najdete třeba [zde](https://github
 Stručný přehled probírané látky včetně užitečných odkazů
 
 ### Lekce 1
+(22. 9. 2025)
 
 - Osnova, PIA I, PIA II
 
@@ -50,6 +51,7 @@ Stručný přehled probírané látky včetně užitečných odkazů
 ---
 
 ### Lekce 2
+(29. 9. 2025)
 
 - Základní příkazy na linuxu II
    - struktura linuxových systémů
@@ -73,6 +75,7 @@ Stručný přehled probírané látky včetně užitečných odkazů
 ---
 
 ### Lekce 3
+(6. 10. 2025)
 
 - Statické a dynamické pole
    - datové konejnery [std::vector](https://www.geeksforgeeks.org/cpp/vector-in-cpp-stl/) (alternativně [zde](https://learn.microsoft.com/cs-cz/cpp/standard-library/vector-class?view=msvc-170)) a [std::array](https://www.geeksforgeeks.org/cpp/stdarray-in-cpp/) (alternativně [zde](https://learn.microsoft.com/cs-cz/cpp/standard-library/array-class-stl?view=msvc-170))
@@ -81,6 +84,7 @@ Stručný přehled probírané látky včetně užitečných odkazů
 ---
 
 ### Lekce 4
+(13. 10. 2025)
 
 - Vícerozměrné pole
 - Funkce
@@ -92,6 +96,7 @@ __ÚKOL (DOPORUČENÝ):__ Lineární advekce.
 ---
 
 ### Lekce 5
+(20. 10. 2025)
 
 - Opakování základních konceptů (výpis, pole, funkce, cykly, podmínky).
 
@@ -105,6 +110,7 @@ __ÚKOL (DOPORUČENÝ):__ Lineární advekce.
 ---
 
 ### Lekce 6
+(27. 10. 2025)
 
 - Objektově orientované programování I: Třídy a struktury
    - úvod
@@ -125,6 +131,7 @@ Výsledek nahrajte do vlastního repozitáře.
 ---
 
 ### Lekce 7
+(3. 11. 2025)
 
 
 - Objektově orientované programování II: Třídy a struktury
@@ -139,6 +146,7 @@ __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a
 ---
 
 ### Lekce 8
+(10. 11. 2025)
 
 - Objektově orientované programování II: Třídy a struktury
    - dědičnost
@@ -150,24 +158,40 @@ __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a
 - [Tutoriál k práci s CMake](https://hsf-training.github.io/hsf-training-cmake-webpage/01-intro/index.html), případně [oficiální návod pro práci s CMake](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 - [Minimalistická ukázka práce s Makefile](https://www.geeksforgeeks.org/cpp/makefile-in-c-and-its-applications/)
 
+__ÚKOL (POVINNÝ):__ Ve složce 8 lekce najdete [neúplný kód implementující třídu Tvar](https://github.com/tomashalada/pia1/blob/main/lekce8/tvary.cpp).
+Využijte implementaci třídy `Kruh` z lekce šest a upravte ji do tvaru, kdy je odvozena z obecné třídy `Tvar`.
+Dále implementujte třídu čtverec, která je rovněž odvozená z třídy `Tvar`
+
 ---
 
 ### Lekce 9
+(17. 11. 2025, __svátek__)
 
 - Externí/výpočetní servery, clustery a úložiště
 
 
-### Lekce 10
+---
 
+### Lekce 10
+(24. 11. 2025)
+
+---
 
 ### Lekce 11
+(1. 12. 2025)
 
+---
 
 ### Lekce 12
+(8. 12. 2025)
+
 
 - Prezentace semestrálních prací
 
+---
+
 ### Lekce 13
+(15. 12. 2025, __zrušeno__)
 
 - Bonus: HPC, numerické počítání, moderní a rychlé architektury a jejich použití
   (Poznánka na PIA II)

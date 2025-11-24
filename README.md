@@ -167,13 +167,34 @@ Dále implementujte třídu čtverec, která je rovněž odvozená z třídy `Tv
 ### Lekce 9
 (17. 11. 2025, __svátek__)
 
-- Externí/výpočetní servery, clustery a úložiště
+
+- (Konečně): Smart pointery
+- (Konečně): Knihovna STD I.
+- (Konečně): Lambda funkce I.
+
+#### Užitečné odkazy a doplňující zdroje:
+
+- Smart pointers: https://www.geeksforgeeks.org/smart-pointers-cpp/
+      Konkrétně pak:
+      - unique_ptr https://www.geeksforgeeks.org/unique_ptr-in-cpp/
+      - shared_ptr https://www.geeksforgeeks.org/shared_ptr-in-cpp/
+      - weak_ptr https://www.geeksforgeeks.org/weak_ptr-in-cpp/
+- Lambda funkce: Ukázky jsou v adresáři `concepts/lambdaFunctions`
+      Dále pak:
+      - https://learn.microsoft.com/en-us/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
+      - https://learn.microsoft.com/en-us/cpp/cpp/examples-of-lambda-expressions?view=msvc-170
+      - https://www.programiz.com/cpp-programming/lambda-expression
+- rvalue/lvalue, double reference:
+      - https://learn.microsoft.com/en-us/cpp/cpp/rvalue-reference-declarator-amp-amp?view=msvc-170
+      - https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170
 
 
 ---
 
 ### Lekce 10
 (24. 11. 2025)
+
+O čem je ještě dobré vědět:
 
 ---
 
@@ -196,6 +217,7 @@ Dále implementujte třídu čtverec, která je rovněž odvozená z třídy `Tv
 - Bonus: HPC, numerické počítání, moderní a rychlé architektury a jejich použití
   (Poznánka na PIA II)
 - Datové struktury pro numerické počítání
+- Externí/výpočetní servery, clustery a úložiště
 
 ### Zařadit
 

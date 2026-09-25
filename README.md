@@ -1,9 +1,9 @@
-# Programování Inženýrských Aplikací I (PIA I), ZS 2025/2026
+# Programování Inženýrských Aplikací I (PIA I), ZS 2026/2027
 
 Stručný soubor poznámek a soubor odkazů z hodin.
 Podklady z předchozích ročníků jsou k dispozici na [Moodle](https://moodle-vyuka.cvut.cz/course/view.php?id=14467).
 
-Pro splnění je požadováno plnění jednotlivých úkolů v průběhu semestru, vypracování celosemestrálního projketu (skupiny po dvou, třech) a splnění závěrečného testu.
+Pro splnění je požadováno plnění jednotlivých úkolů v průběhu semestru, vypracování celosemestrálního projketu (skupiny po dvou, třech), pravidelná docházka a aktivní učast na cvičení.
 Návrhy semestrálních prací pro inspiraci najdete třeba [zde](https://github.com/tomashalada/pia1).
 
 ## Obsah předmětu
@@ -11,7 +11,7 @@ Návrhy semestrálních prací pro inspiraci najdete třeba [zde](https://github
 Stručný přehled probírané látky včetně užitečných odkazů
 
 ### Lekce 1
-(22. 9. 2025)
+(23. 9. 2026)
 
 - Osnova, PIA I, PIA II
 
@@ -23,9 +23,9 @@ Stručný přehled probírané látky včetně užitečných odkazů
    - Benefity C, C++, Fortranu oproti pythonu
    - Julie, Matlab
 
-- Editor, standardy psaní kódu a poučky Kuby Klinkovského
+- Editor, standardy psaní kódu a poučky Jakuba Klinkovského
 
-- Git
+- Git I
    - [Git stručně](https://jlk.fjfi.cvut.cz/teaching/PROP_2024/git.html) od Jakuba Klinkovského z KSI FJSI:
 
 - Struktura C++ programů
@@ -48,10 +48,18 @@ Stručný přehled probírané látky včetně užitečných odkazů
 - [Git ve VSCode terminálu](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_using-git-in-the-builtin-terminal)
 - [Unix Shell Tutorial](https://swcarpentry.github.io/shell-novice/)
 
+#### Úkol:
+
+Zajistit a otestovat instalaci příslušných nástrojů - linuxový subsystém (či přímo linuxový operační systém), editor, git.
+
+
 ---
 
 ### Lekce 2
-(29. 9. 2025)
+(30. 9. 2026)
+
+- Git I
+   - ssh klíč, nahrávání kódu k vzdálenému repozitáři
 
 - Základní příkazy na linuxu II
    - struktura linuxových systémů
@@ -75,7 +83,7 @@ Stručný přehled probírané látky včetně užitečných odkazů
 ---
 
 ### Lekce 3
-(6. 10. 2025)
+(7. 10. 2026)
 
 - Statické a dynamické pole
    - datové konejnery [std::vector](https://www.geeksforgeeks.org/cpp/vector-in-cpp-stl/) (alternativně [zde](https://learn.microsoft.com/cs-cz/cpp/standard-library/vector-class?view=msvc-170)) a [std::array](https://www.geeksforgeeks.org/cpp/stdarray-in-cpp/) (alternativně [zde](https://learn.microsoft.com/cs-cz/cpp/standard-library/array-class-stl?view=msvc-170))
@@ -84,7 +92,7 @@ Stručný přehled probírané látky včetně užitečných odkazů
 ---
 
 ### Lekce 4
-(13. 10. 2025)
+(14. 10. 2026)
 
 - Vícerozměrné pole
 - Funkce
@@ -96,7 +104,7 @@ __ÚKOL (DOPORUČENÝ):__ Lineární advekce.
 ---
 
 ### Lekce 5
-(20. 10. 2025)
+(21. 10. 2026)
 
 - Opakování základních konceptů (výpis, pole, funkce, cykly, podmínky).
 
@@ -110,7 +118,7 @@ __ÚKOL (DOPORUČENÝ):__ Lineární advekce.
 ---
 
 ### Lekce 6
-(27. 10. 2025)
+(28. 10. 2026 - **SVÁTEK - ODPADNE**)
 
 - Objektově orientované programování I: Třídy a struktury
    - úvod
@@ -131,7 +139,7 @@ Výsledek nahrajte do vlastního repozitáře.
 ---
 
 ### Lekce 7
-(3. 11. 2025)
+(4. 11. 2026)
 
 
 - Objektově orientované programování II: Třídy a struktury
@@ -146,7 +154,7 @@ __PREZENTACE SKUPINOVÝCH PROJEKTŮ__ (přesunuto z lekce 3): Popsání vstupu a
 ---
 
 ### Lekce 8
-(10. 11. 2025)
+(11. 11. 2026)
 
 - Objektově orientované programování II: Třídy a struktury
    - dědičnost
@@ -165,7 +173,7 @@ Dále implementujte třídu čtverec, která je rovněž odvozená z třídy `Tv
 ---
 
 ### Lekce 9
-(17. 11. 2025, __svátek__)
+(18. 11. 2026)
 
 
 - (Konečně): Smart pointery
@@ -192,19 +200,19 @@ Dále implementujte třídu čtverec, která je rovněž odvozená z třídy `Tv
 ---
 
 ### Lekce 10
-(24. 11. 2025)
+(25. 11. 2026)
 
 O čem je ještě dobré vědět:
 
 ---
 
 ### Lekce 11
-(1. 12. 2025)
+(2. 11. 2026)
 
 ---
 
 ### Lekce 12
-(8. 12. 2025)
+(9. 11. 2026)
 
 
 - Prezentace semestrálních prací
@@ -212,7 +220,7 @@ O čem je ještě dobré vědět:
 ---
 
 ### Lekce 13
-(15. 12. 2025, __zrušeno__)
+(16. 11. 2026)
 
 - Bonus: HPC, numerické počítání, moderní a rychlé architektury a jejich použití
   (Poznánka na PIA II)

@@ -6,6 +6,12 @@ Podklady z předchozích ročníků jsou k dispozici na [Moodle](https://moodle-
 Pro splnění je požadováno plnění jednotlivých úkolů v průběhu semestru, vypracování celosemestrálního projketu (skupiny po dvou, třech), pravidelná docházka a aktivní učast na cvičení.
 Návrhy semestrálních prací pro inspiraci najdete třeba [zde](https://github.com/tomashalada/pia1).
 
+Semestrální projekt musí splňovat následující náležitosti:
+- Srozumitelný kód, členěný do logických celků dodržující [zásady programování](https://jlk.fjfi.cvut.cz/teaching/PROP_2023/coding.html) a držet jednotná pravidla pro styl a formátování kódu (např. [Linux kernel coding style](https://www.kernel.org/doc/html/v4.18/process/coding-style.html), [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html), [Mozila C++ Coding style](https://firefox-source-docs.mozilla.org/code-quality/coding-style/coding_style_cpp.html))
+- Projekt musí být dostupný na gitu, během vývoje je vyžadováno použití kolaborativních prvků, které git poskytuje (issues, mergre requesty, branche)
+- Projekt musí obsahovat shrnutí, strukturu, a minimalistický popis vstupů a výstupů, příp. využitých algoritmů
+- Využití AI je podporováno. V případě generovaného kódu je nutné příslušné commity označit jako commity s využitím příslušného modelu. Autor musí být schopen následně vysvětlit **každý koncepční i syntaktický** konstrukt, který se v generovaném (i lidsky psaném) kódu nachází a demonstrovat ho na jiném případě.
+
 ## Obsah předmětu
 
 Stručný přehled probírané látky včetně užitečných odkazů

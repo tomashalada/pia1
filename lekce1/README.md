@@ -3,7 +3,7 @@
 
 ## Úkol:
 
-Do souboru `gitTest.txt` v tomto adresáři (`pia1/lekce1/gitTest.txt`) doplňte potvrzení ke svému jménu. Využijte přitom postup fork, clone, edit, commit, push.
+Zajistit a otestovat instalaci příslušných nástrojů - linuxový subsystém (či přímo linuxový operační systém), editor, git.
 
 #### Návod:
 

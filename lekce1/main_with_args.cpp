@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(int argc, char* argv[])
+int main( int argc, char* argv[] )
 {
     // Print argc
     std::cout << "Number of arguments (argc): " << argc << std::endl;

@@ -2,6 +2,8 @@
 #include <iostream>
 #include <vector>
 
+// MOJE UPRAVY DO TOHOTO SOUBORU
+
 class Parameters
 {
 public:

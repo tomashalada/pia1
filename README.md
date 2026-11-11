@@ -1,3 +1,9 @@
+# Úkol týden 8: (11. 11. 2026)
+
+- Ve [složce](https://github.com/tomashalada/pia1/tree/main/ukol/cpp_to_pseudocode) najdete implementace jednoduchých programů. Pro program odpovídající vašemu číslu sepiště pseudokód a popište co program řeší do té úrovně, aby byl z vašeho popisu schopný někdo další program reprodukovat.
+
+- Vyzkoušejte si implementaci jednoduché třídy (tvar, matice). Vzor pro implemetaci naleznete např. [zde](https://github.com/tomashalada/pia1/tree/main/lekce7/trida-vzor).
+
 # Programování Inženýrských Aplikací I (PIA I), ZS 2026/2027
 
 Stručný soubor poznámek a soubor odkazů z hodin.
